@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <iostream>
 
-#include "ThreadPool.hh"
+#include "ThreadPool.h"
 
 ThreadPool::ThreadPool()
   :m_mutex(),
