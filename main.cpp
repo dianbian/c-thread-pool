@@ -1,8 +1,8 @@
 #include <iostream>
 #include <chrono>
 #include <condition_variable>
-#include "ThreadPool.hh"
-#include "CurrentThread.hh"
+#include "ThreadPool.h"
+#include "CurrentThread.h"
 
 /*int g_sum = 0;
 
