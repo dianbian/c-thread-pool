@@ -1,5 +1,5 @@
 #include <chrono>
-#include "Condition.hh"
+#include "Condition.h"
 
 Condition::Condition(std::mutex &mutex)
   :m_mutex(mutex)
