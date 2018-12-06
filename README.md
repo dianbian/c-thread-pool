@@ -1,2 +1,2 @@
-# c-thread-pool
-c++ thread pool
+# ThreadPool
+A C++ 11 Simple ThreadPool
